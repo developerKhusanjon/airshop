@@ -1,2 +1,2 @@
-# daily_app_front
-Demo app for learning dynamic ui components
+# daily_app
+Daily task management front application
