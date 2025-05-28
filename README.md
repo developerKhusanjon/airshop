@@ -1,2 +1,2 @@
-# daily_app
-Daily task management front application
+# Airshop
+Online marketplace for vendors
