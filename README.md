@@ -1,2 +1,2 @@
-# Webfence
+# Cyberfence
 Network anomaly detector
